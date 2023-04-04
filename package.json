@@ -1,0 +1,30 @@
+{
+  "name": "website-akhmad-qasim",
+  "version": "1.0.0",
+  "description": "Website Akhmad Qasim",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhmadqasim/website-akhmad-qasim.git"
+  },
+  "keywords": [
+    "nextjs",
+    "website"
+  ],
+  "dependencies": {
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": "Akhmad Qasim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhmadqasim/website-akhmad-qasim/issues"
+  },
+  "homepage": "https://github.com/akhmadqasim/website-akhmad-qasim#readme"
+}
